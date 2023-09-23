@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\AlfabeEn\bin\Debug\net6.0\AlfabeEn.exe
+C:\Users\Admin\source\repos\AlfabeEn\bin\Debug\net6.0\AlfabeEn.deps.json
+C:\Users\Admin\source\repos\AlfabeEn\bin\Debug\net6.0\AlfabeEn.runtimeconfig.json
+C:\Users\Admin\source\repos\AlfabeEn\bin\Debug\net6.0\AlfabeEn.dll
+C:\Users\Admin\source\repos\AlfabeEn\bin\Debug\net6.0\AlfabeEn.pdb
+C:\Users\Admin\source\repos\AlfabeEn\obj\Debug\net6.0\AlfabeEn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AlfabeEn\obj\Debug\net6.0\AlfabeEn.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AlfabeEn\obj\Debug\net6.0\AlfabeEn.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AlfabeEn\obj\Debug\net6.0\AlfabeEn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AlfabeEn\obj\Debug\net6.0\AlfabeEn.dll
+C:\Users\Admin\source\repos\AlfabeEn\obj\Debug\net6.0\refint\AlfabeEn.dll
+C:\Users\Admin\source\repos\AlfabeEn\obj\Debug\net6.0\AlfabeEn.pdb
+C:\Users\Admin\source\repos\AlfabeEn\obj\Debug\net6.0\AlfabeEn.genruntimeconfig.cache
+C:\Users\Admin\source\repos\AlfabeEn\obj\Debug\net6.0\ref\AlfabeEn.dll
